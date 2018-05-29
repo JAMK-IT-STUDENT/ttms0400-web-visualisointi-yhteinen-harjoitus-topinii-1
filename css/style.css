@@ -1,0 +1,12 @@
+.navigation ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.contact ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    margin-left: 0;
+}
